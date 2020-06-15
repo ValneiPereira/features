@@ -1,4 +1,4 @@
-#Language:pt
+#language:pt
 Funcionalidade: simulacao compra de computador no site magazine luiza
 
     Contexto: pagina home site magazine luiza

@@ -1,4 +1,4 @@
-#Language:pt
+#language:pt
 Funcionalidade: fazer pesquisa 
 
 Cenário: Através do departamento

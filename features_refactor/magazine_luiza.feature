@@ -1,4 +1,4 @@
-#Language:pt
+#language:pt
 Funcionalidade: simulacao compra 
 
 Cenário: Fazer simulação compra de um computador

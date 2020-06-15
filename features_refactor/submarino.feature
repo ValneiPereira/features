@@ -1,4 +1,4 @@
-#Language:pt
+#language:pt
 Funcionalidade: testar acesso ao carrinho
 
 Cenário: Pesquisar produto placa de video

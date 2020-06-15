@@ -1,4 +1,4 @@
-#Language:pt
+#language:pt
 Funcionalidade: Realizar pesquisa
    
     Cenário: Pesquisar imagem de batata
